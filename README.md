@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CTF
 - 📫 How to reach me (laravellawrence@gmail.com)
 - 😄 Just call me L
-- ⚡ Fun fact: Im Human
+- ⚡ Fun fact: If tomorrow is tomorrow then tomorrow is tomorrow
 
 <!---
 Laulieth/Laulieth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
