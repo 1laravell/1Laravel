@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1laravel
+- 👋 Hi, I’m @1laravell
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cryptography
 - 💞️ I’m looking to collaborate on CTF
